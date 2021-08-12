@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
----
+title: Hey I'm Hodon
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you're  here. I plan to talk about all things web developement & programming languages such as HTML, CSS & JavaScript!
